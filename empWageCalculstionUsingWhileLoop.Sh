@@ -1,3 +1,5 @@
+echo " Wellcome to employee wage Calculation usin function to get work hours"
+
 perHourSalary=20;
 workingHour=0;
 totalSalary=0;
