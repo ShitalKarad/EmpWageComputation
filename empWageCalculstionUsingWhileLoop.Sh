@@ -1,3 +1,5 @@
+echo " Wellcome to the Employee Wage total working hours or days is reached for a month ";
+
 perHourSalary=20;
 workingHour=0;
 totalSalary=0;
