@@ -1,1 +1,1 @@
-# EmpWageComputation
+echo " Wellcome to Employee wage calculation ";
