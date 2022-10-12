@@ -1,3 +1,5 @@
+echo "Wellcome to th Employee  wage Calculation for a month";
+
 perHourSalary=20;
 workingHour=0;
 totalSalary=0;
